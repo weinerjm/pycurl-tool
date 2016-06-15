@@ -1,4 +1,4 @@
-venv
+venv/
 *.txt
 *.pyc
 *.html
